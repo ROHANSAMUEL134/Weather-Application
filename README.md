@@ -1,7 +1,6 @@
-# 🌦️ Stay Ahead of the Weather with My Weather App ☀️⛈️
-
-Never be caught unprepared for the elements again! Introducing my cutting-edge weather application that provides you with real-time forecasts, detailed weather data, and more.
-
-Tools used : HTML, CSS & Javascript
-
 Live hosted Link : https://deluxe-truffle-b58f09.netlify.app/
+Tools used : HTML, CSS & Javascript
+# 🌦️Stay Informed,Stay Prepared| Your Weather Forecast Hub
+# ☀️Explore Weather Conditions| Where Every Day Begins with a Forecast
+# 🌧️Sunshine or Showers,We've Got You Covered| Your Ultimate Weather Source⛅
+              
